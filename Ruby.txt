@@ -1,0 +1,10 @@
+Room0 vaccant
+Room1 vaccant
+Room2 vaccant
+Room3 vaccant
+Room4 vaccant
+Room5 vaccant
+Room6 vaccant
+Room7 vaccant
+Room8 vaccant
+Room9 vaccant

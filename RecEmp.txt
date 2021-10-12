@@ -1,0 +1,6 @@
+a , s , d , m , q , o , 54 , 12,14,5-12-2018
+a , s , d , f , g , d , 5 , 5
+a , s , d , m , q , o , 54 , 12,14,5-12-2018
+a , d , s , f , d , s , 5 , 41
+a , d , s , f , d , s , 5 , 41,last
+Muhammad,Abubakar,abubakartahir529@gmail.com,M,Malik Tahir,O+,3314929222,3314929225,3520218566653,5-12-2018,MalikAbubakar,123456
